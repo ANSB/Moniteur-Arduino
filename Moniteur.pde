@@ -131,7 +131,7 @@ int btn_texte = 12;
 // se trouve dans tab_fenetre_offset_menu
 // Activation ou non de la date
 int tab_fenetre_pos_menu[][] = {{5,5,80,20},{95,5,80,20},{185,5,80,20}};
-String tab_fenetre_texte_menu[]= {"Date","Scroll","Effacer"};
+String tab_fenetre_texte_menu[]= {"Heure","Scroll","Effacer"};
 
 // Etat des fenêtres au niveau affichage de date et scroll
 // 0= pas de date; 1= affichage date
