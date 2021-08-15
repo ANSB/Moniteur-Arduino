@@ -5,15 +5,15 @@ Moniteur pour Arduino avec 4 zones d'affichages
 Lorsque l'on débuggue du code Arduino, on utilise généralement le Serial Moniteur. Mais celui-ci ne dispose que d'une fenêtre. Ce petit outil, développé avec Processing, permet d'afficher des messages dans 4 zones différentes (petites fenêtres).
 
 ## Démarrage
-Charger le code Arduino et compiler le dans un UNO par exemple.
-Lancer Moniteur.pde avec Processing 3 ou 4.
+Chargez le code Arduino et compilez le dans un UNO par exemple.
+Lancez Moniteur.pde avec Processing 3 ou 4.
 Au lancement, il y a recherche du port série disponible. La vitesse par défaut est de 9600 bauds.
 
 ## Les réglages
 
 ### Menu de fenêtre
-Heure: ajoute heure minute seconde en face de chaque message. Désactivé par défaut.
-Scroll: active ou désactive le scroll de cette fenêtre. Activé par défaut.
+Heure: ajoute heure minute seconde en face de chaque message. Option désactivée par défaut.
+Scroll: active ou désactive le scroll de cette fenêtre. Option activée par défaut.
 Effacement: efface le contenu de cette fenêtre.
 
 ### Menu en partie inférieure
